@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Firearms Deaths Chart</title>
+</head>
+<body>
+    <iframe
+        title="Firearms Deaths in Philadelphia Since 2016"
+        aria-label="Interactive line chart"
+        id="datawrapper-chart-9ef60"
+        src="https://datawrapper.dwcdn.net/9ef60/1/"
+        scrolling="no"
+        frameborder="0"
+        style="width: 0; min-width: 100% !important; border: none;"
+        height="400"
+        data-external="1">
